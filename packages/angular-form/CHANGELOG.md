@@ -1,5 +1,12 @@
 # @tanstack/angular-form
 
+## 1.33.6
+
+### Patch Changes
+
+- Updated dependencies [[`bc7d6f1`](https://github.com/TanStack/form/commit/bc7d6f1e133657a9f1c9ce816aac925f8f7279ed)]:
+  - @tanstack/form-core@1.33.6
+
 ## 1.33.5
 
 ### Patch Changes
